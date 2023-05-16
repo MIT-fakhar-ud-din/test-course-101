@@ -5,7 +5,9 @@ draft: false
 title: Video Resources
 uid: a0ec1996-9829-47b0-9e8c-b088a7c7c42b
 ---
-Refer to following video
+Refer to following video, 
+
+Captions added!
 
  
 
