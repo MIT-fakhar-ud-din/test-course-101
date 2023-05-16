@@ -3,3 +3,7 @@ leftnav:
   name: Main Menu
   url: /pages/homepage
   weight: 10
+- identifier: 838fe234-30f0-4c01-bd89-ae8523f34cd5
+  name: Video Resource
+  url: /resources/ocw-7012-lec8-24sep2004-220k_mp4
+  weight: 20
