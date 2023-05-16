@@ -1,0 +1,35 @@
+{
+  "term": "Summer",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "1c0811c6-f20a-4fac-b2b8-b551b2c075b5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-course-101"
+  },
+  "course_title": "Test Course 101",
+  "course_description": "Test Course 101\n\nFor all testing",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "101",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-course-101"
+  },
+  "learning_resource_types": [
+    "Course Introduction"
+  ],
+  "site_uid": "4d9961d3-30dc-40da-a448-3704658df4ab",
+  "site_short_id": "test-course-101"
+}
