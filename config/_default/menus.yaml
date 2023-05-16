@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 66b08c03-2ea2-4bf4-97db-7afc35d286e5
+  name: Main Menu
+  url: /pages/homepage
+  weight: 10
